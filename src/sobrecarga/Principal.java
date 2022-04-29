@@ -48,10 +48,6 @@ public class Principal {
         System.out.println();
         System.out.println("----------------------------------------------------------");
 
-
-
-
-
-
     }
+
 }
